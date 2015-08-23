@@ -1,7 +1,7 @@
 Code Book
 ===============
 
-  ## Variables in final data set:
+## Variables in final data set:
   
   There are 180 rows and 68 columns in the final dataset as following:
 * "Subject"                   
@@ -71,4 +71,4 @@ Code Book
 * "fBodyBodyGyroMag-mean"     
 * "fBodyBodyGyroMag-std"
 * "fBodyBodyGyroJerkMag-mean" 
-* "fBodyBodyGyroJerkMag-std"* "
+* "fBodyBodyGyroJerkMag-std"
